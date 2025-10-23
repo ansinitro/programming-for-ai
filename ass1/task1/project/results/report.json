@@ -1,0 +1,1502 @@
+[
+    {
+        "full_name": "Shomanov Ayaulym",
+        "group": "CS-23-01",
+        "math": 56,
+        "physics": 71,
+        "cs": 69,
+        "history": 85,
+        "english": 84,
+        "average": 73.0
+    },
+    {
+        "full_name": "Sadykova Moldir",
+        "group": "CS-23-02",
+        "math": 62,
+        "physics": 77,
+        "cs": 57,
+        "history": 69,
+        "english": 79,
+        "average": 68.8
+    },
+    {
+        "full_name": "Sadykova Aliya",
+        "group": "CS-23-03",
+        "math": 68,
+        "physics": 83,
+        "cs": 80,
+        "history": 69,
+        "english": 82,
+        "average": 76.4
+    },
+    {
+        "full_name": "Imanbekov Yerlan",
+        "group": "AI-24-01",
+        "math": 53,
+        "physics": 87,
+        "cs": 84,
+        "history": 74,
+        "english": 66,
+        "average": 72.8
+    },
+    {
+        "full_name": "Nurmaganbet Temirlan",
+        "group": "AI-24-02",
+        "math": 63,
+        "physics": 75,
+        "cs": 75,
+        "history": 74,
+        "english": 71,
+        "average": 71.6
+    },
+    {
+        "full_name": "Kydyr Dana",
+        "group": "SE-22-01",
+        "math": 78,
+        "physics": 64,
+        "cs": 92,
+        "history": 61,
+        "english": 72,
+        "average": 73.4
+    },
+    {
+        "full_name": "Mukan Ayaulym",
+        "group": "SE-22-02",
+        "math": 90,
+        "physics": 75,
+        "cs": 68,
+        "history": 61,
+        "english": 84,
+        "average": 75.6
+    },
+    {
+        "full_name": "Turganbek Temirlan",
+        "group": "CS-23-01",
+        "math": 96,
+        "physics": 89,
+        "cs": 89,
+        "history": 75,
+        "english": 78,
+        "average": 85.4
+    },
+    {
+        "full_name": "Zhaksylykov Karina",
+        "group": "CS-23-02",
+        "math": 66,
+        "physics": 74,
+        "cs": 84,
+        "history": 85,
+        "english": 84,
+        "average": 78.6
+    },
+    {
+        "full_name": "Mukan Rustem",
+        "group": "CS-23-03",
+        "math": 83,
+        "physics": 80,
+        "cs": 70,
+        "history": 78,
+        "english": 71,
+        "average": 76.4
+    },
+    {
+        "full_name": "Ilyasov Sanzhar",
+        "group": "AI-24-01",
+        "math": 84,
+        "physics": 69,
+        "cs": 73,
+        "history": 86,
+        "english": 59,
+        "average": 74.2
+    },
+    {
+        "full_name": "Mansurova Karina",
+        "group": "AI-24-02",
+        "math": 87,
+        "physics": 76,
+        "cs": 60,
+        "history": 91,
+        "english": 81,
+        "average": 79.0
+    },
+    {
+        "full_name": "Nurmaganbet Madi",
+        "group": "SE-22-01",
+        "math": 69,
+        "physics": 79,
+        "cs": 90,
+        "history": 83,
+        "english": 65,
+        "average": 77.2
+    },
+    {
+        "full_name": "Kapanova Aigerim",
+        "group": "SE-22-02",
+        "math": 86,
+        "physics": 80,
+        "cs": 86,
+        "history": 77,
+        "english": 81,
+        "average": 82.0
+    },
+    {
+        "full_name": "Kapanova Bibigul",
+        "group": "CS-23-01",
+        "math": 98,
+        "physics": 65,
+        "cs": 79,
+        "history": 86,
+        "english": 89,
+        "average": 83.4
+    },
+    {
+        "full_name": "Ilyasov Aigerim",
+        "group": "CS-23-02",
+        "math": 66,
+        "physics": 84,
+        "cs": 82,
+        "history": 75,
+        "english": 82,
+        "average": 77.8
+    },
+    {
+        "full_name": "Tleubayeva Yerkebulan",
+        "group": "CS-23-03",
+        "math": 70,
+        "physics": 81,
+        "cs": 93,
+        "history": 84,
+        "english": 64,
+        "average": 78.4
+    },
+    {
+        "full_name": "Sadykova Moldir",
+        "group": "AI-24-01",
+        "math": 86,
+        "physics": 86,
+        "cs": 74,
+        "history": 72,
+        "english": 66,
+        "average": 76.8
+    },
+    {
+        "full_name": "Kydyr Aliya",
+        "group": "AI-24-02",
+        "math": 90,
+        "physics": 71,
+        "cs": 79,
+        "history": 67,
+        "english": 91,
+        "average": 79.6
+    },
+    {
+        "full_name": "Ilyasov Altynai",
+        "group": "SE-22-01",
+        "math": 72,
+        "physics": 83,
+        "cs": 82,
+        "history": 66,
+        "english": 86,
+        "average": 77.8
+    },
+    {
+        "full_name": "Abdullayev Damir",
+        "group": "SE-22-02",
+        "math": 92,
+        "physics": 92,
+        "cs": 82,
+        "history": 79,
+        "english": 63,
+        "average": 81.6
+    },
+    {
+        "full_name": "Yessimov Bibigul",
+        "group": "CS-23-01",
+        "math": 96,
+        "physics": 87,
+        "cs": 70,
+        "history": 70,
+        "english": 81,
+        "average": 80.8
+    },
+    {
+        "full_name": "Rakhimzhanov Rustem",
+        "group": "CS-23-02",
+        "math": 85,
+        "physics": 88,
+        "cs": 95,
+        "history": 80,
+        "english": 64,
+        "average": 82.4
+    },
+    {
+        "full_name": "Omarov Anel",
+        "group": "CS-23-03",
+        "math": 93,
+        "physics": 66,
+        "cs": 80,
+        "history": 82,
+        "english": 94,
+        "average": 83.0
+    },
+    {
+        "full_name": "Sadykova Sanzhar",
+        "group": "AI-24-01",
+        "math": 86,
+        "physics": 84,
+        "cs": 85,
+        "history": 76,
+        "english": 84,
+        "average": 83.0
+    },
+    {
+        "full_name": "Yeszhanov Bibigul",
+        "group": "AI-24-02",
+        "math": 91,
+        "physics": 78,
+        "cs": 70,
+        "history": 60,
+        "english": 56,
+        "average": 71.0
+    },
+    {
+        "full_name": "Kapanova Damir",
+        "group": "SE-22-01",
+        "math": 82,
+        "physics": 53,
+        "cs": 85,
+        "history": 60,
+        "english": 60,
+        "average": 68.0
+    },
+    {
+        "full_name": "Imanbekov Dana",
+        "group": "SE-22-02",
+        "math": 74,
+        "physics": 79,
+        "cs": 72,
+        "history": 79,
+        "english": 80,
+        "average": 76.8
+    },
+    {
+        "full_name": "Batyrbek Serik",
+        "group": "CS-23-01",
+        "math": 90,
+        "physics": 81,
+        "cs": 70,
+        "history": 78,
+        "english": 76,
+        "average": 79.0
+    },
+    {
+        "full_name": "Shomanov Samat",
+        "group": "CS-23-02",
+        "math": 83,
+        "physics": 74,
+        "cs": 76,
+        "history": 89,
+        "english": 59,
+        "average": 76.2
+    },
+    {
+        "full_name": "Ilyasov Ayaulym",
+        "group": "CS-23-03",
+        "math": 63,
+        "physics": 76,
+        "cs": 74,
+        "history": 89,
+        "english": 70,
+        "average": 74.4
+    },
+    {
+        "full_name": "Sadykova Aidos",
+        "group": "AI-24-01",
+        "math": 78,
+        "physics": 77,
+        "cs": 72,
+        "history": 70,
+        "english": 92,
+        "average": 77.8
+    },
+    {
+        "full_name": "Myrzakhmet Yerkebulan",
+        "group": "AI-24-02",
+        "math": 89,
+        "physics": 81,
+        "cs": 59,
+        "history": 99,
+        "english": 88,
+        "average": 83.2
+    },
+    {
+        "full_name": "Batyrbek Rustem",
+        "group": "SE-22-01",
+        "math": 86,
+        "physics": 70,
+        "cs": 76,
+        "history": 79,
+        "english": 89,
+        "average": 80.0
+    },
+    {
+        "full_name": "Mansurova Moldir",
+        "group": "SE-22-02",
+        "math": 66,
+        "physics": 51,
+        "cs": 76,
+        "history": 92,
+        "english": 87,
+        "average": 74.4
+    },
+    {
+        "full_name": "Smailova Adil",
+        "group": "CS-23-01",
+        "math": 84,
+        "physics": 85,
+        "cs": 87,
+        "history": 84,
+        "english": 79,
+        "average": 83.8
+    },
+    {
+        "full_name": "Turganbek Aidos",
+        "group": "CS-23-02",
+        "math": 69,
+        "physics": 60,
+        "cs": 85,
+        "history": 60,
+        "english": 73,
+        "average": 69.4
+    },
+    {
+        "full_name": "Zhussupov Dana",
+        "group": "CS-23-03",
+        "math": 78,
+        "physics": 92,
+        "cs": 80,
+        "history": 59,
+        "english": 79,
+        "average": 77.6
+    },
+    {
+        "full_name": "Beketov Altynai",
+        "group": "AI-24-01",
+        "math": 60,
+        "physics": 60,
+        "cs": 89,
+        "history": 76,
+        "english": 93,
+        "average": 75.6
+    },
+    {
+        "full_name": "Kapanova Ardak",
+        "group": "AI-24-02",
+        "math": 81,
+        "physics": 58,
+        "cs": 61,
+        "history": 83,
+        "english": 81,
+        "average": 72.8
+    },
+    {
+        "full_name": "Batyrbek Arman",
+        "group": "SE-22-01",
+        "math": 71,
+        "physics": 84,
+        "cs": 73,
+        "history": 71,
+        "english": 65,
+        "average": 72.8
+    },
+    {
+        "full_name": "Turganbek Ayaulym",
+        "group": "SE-22-02",
+        "math": 78,
+        "physics": 92,
+        "cs": 93,
+        "history": 54,
+        "english": 82,
+        "average": 79.8
+    },
+    {
+        "full_name": "Shomanov Ardak",
+        "group": "CS-23-01",
+        "math": 61,
+        "physics": 69,
+        "cs": 71,
+        "history": 92,
+        "english": 90,
+        "average": 76.6
+    },
+    {
+        "full_name": "Kapanova Moldir",
+        "group": "CS-23-02",
+        "math": 75,
+        "physics": 66,
+        "cs": 88,
+        "history": 85,
+        "english": 82,
+        "average": 79.2
+    },
+    {
+        "full_name": "Ilyasov Yerlan",
+        "group": "CS-23-03",
+        "math": 80,
+        "physics": 84,
+        "cs": 81,
+        "history": 92,
+        "english": 63,
+        "average": 80.0
+    },
+    {
+        "full_name": "Kenzhebay Moldir",
+        "group": "AI-24-01",
+        "math": 71,
+        "physics": 90,
+        "cs": 86,
+        "history": 66,
+        "english": 72,
+        "average": 77.0
+    },
+    {
+        "full_name": "Zhaksilik Aidos",
+        "group": "AI-24-02",
+        "math": 74,
+        "physics": 84,
+        "cs": 89,
+        "history": 79,
+        "english": 70,
+        "average": 79.2
+    },
+    {
+        "full_name": "Imanbekov Sanzhar",
+        "group": "SE-22-01",
+        "math": 59,
+        "physics": 83,
+        "cs": 88,
+        "history": 58,
+        "english": 74,
+        "average": 72.4
+    },
+    {
+        "full_name": "Ilyasov Aigerim",
+        "group": "SE-22-02",
+        "math": 96,
+        "physics": 66,
+        "cs": 77,
+        "history": 85,
+        "english": 81,
+        "average": 81.0
+    },
+    {
+        "full_name": "Rakhimzhanov Samat",
+        "group": "CS-23-01",
+        "math": 93,
+        "physics": 84,
+        "cs": 66,
+        "history": 57,
+        "english": 75,
+        "average": 75.0
+    },
+    {
+        "full_name": "Kenzhebay Damir",
+        "group": "CS-23-02",
+        "math": 77,
+        "physics": 58,
+        "cs": 75,
+        "history": 92,
+        "english": 95,
+        "average": 79.4
+    },
+    {
+        "full_name": "Yessimov Dana",
+        "group": "CS-23-03",
+        "math": 75,
+        "physics": 84,
+        "cs": 84,
+        "history": 74,
+        "english": 81,
+        "average": 79.6
+    },
+    {
+        "full_name": "Smailova Altynai",
+        "group": "AI-24-01",
+        "math": 95,
+        "physics": 86,
+        "cs": 92,
+        "history": 70,
+        "english": 66,
+        "average": 81.8
+    },
+    {
+        "full_name": "Myrzakhmet Yerlan",
+        "group": "AI-24-02",
+        "math": 67,
+        "physics": 76,
+        "cs": 67,
+        "history": 92,
+        "english": 87,
+        "average": 77.8
+    },
+    {
+        "full_name": "Myrzakhmet Zarina",
+        "group": "SE-22-01",
+        "math": 84,
+        "physics": 85,
+        "cs": 70,
+        "history": 66,
+        "english": 85,
+        "average": 78.0
+    },
+    {
+        "full_name": "Imanbekov Gulnaz",
+        "group": "SE-22-02",
+        "math": 58,
+        "physics": 78,
+        "cs": 68,
+        "history": 92,
+        "english": 74,
+        "average": 74.0
+    },
+    {
+        "full_name": "Myrzakhmet Karina",
+        "group": "CS-23-01",
+        "math": 90,
+        "physics": 69,
+        "cs": 83,
+        "history": 76,
+        "english": 72,
+        "average": 78.0
+    },
+    {
+        "full_name": "Abdullayev Rustem",
+        "group": "CS-23-02",
+        "math": 72,
+        "physics": 83,
+        "cs": 76,
+        "history": 96,
+        "english": 80,
+        "average": 81.4
+    },
+    {
+        "full_name": "Shomanov Aliya",
+        "group": "CS-23-03",
+        "math": 90,
+        "physics": 71,
+        "cs": 81,
+        "history": 96,
+        "english": 58,
+        "average": 79.2
+    },
+    {
+        "full_name": "Smailova Aknur",
+        "group": "AI-24-01",
+        "math": 74,
+        "physics": 87,
+        "cs": 77,
+        "history": 96,
+        "english": 64,
+        "average": 79.6
+    },
+    {
+        "full_name": "Zhussupov Moldir",
+        "group": "AI-24-02",
+        "math": 68,
+        "physics": 58,
+        "cs": 77,
+        "history": 80,
+        "english": 87,
+        "average": 74.0
+    },
+    {
+        "full_name": "Kydyr Anel",
+        "group": "SE-22-01",
+        "math": 93,
+        "physics": 85,
+        "cs": 68,
+        "history": 77,
+        "english": 93,
+        "average": 83.2
+    },
+    {
+        "full_name": "Nurmaganbet Sanzhar",
+        "group": "SE-22-02",
+        "math": 83,
+        "physics": 84,
+        "cs": 64,
+        "history": 91,
+        "english": 79,
+        "average": 80.2
+    },
+    {
+        "full_name": "Smailova Anel",
+        "group": "CS-23-01",
+        "math": 73,
+        "physics": 84,
+        "cs": 81,
+        "history": 68,
+        "english": 84,
+        "average": 78.0
+    },
+    {
+        "full_name": "Seitov Gulnaz",
+        "group": "CS-23-02",
+        "math": 86,
+        "physics": 67,
+        "cs": 81,
+        "history": 76,
+        "english": 88,
+        "average": 79.6
+    },
+    {
+        "full_name": "Turganbek Adil",
+        "group": "CS-23-03",
+        "math": 69,
+        "physics": 87,
+        "cs": 82,
+        "history": 73,
+        "english": 77,
+        "average": 77.6
+    },
+    {
+        "full_name": "Sarsembayev Anel",
+        "group": "AI-24-01",
+        "math": 79,
+        "physics": 87,
+        "cs": 94,
+        "history": 85,
+        "english": 83,
+        "average": 85.6
+    },
+    {
+        "full_name": "Tleubayeva Adil",
+        "group": "AI-24-02",
+        "math": 84,
+        "physics": 82,
+        "cs": 62,
+        "history": 93,
+        "english": 70,
+        "average": 78.2
+    },
+    {
+        "full_name": "Kapanova Adil",
+        "group": "SE-22-01",
+        "math": 87,
+        "physics": 66,
+        "cs": 58,
+        "history": 96,
+        "english": 82,
+        "average": 77.8
+    },
+    {
+        "full_name": "Rakhimzhanov Temirlan",
+        "group": "SE-22-02",
+        "math": 78,
+        "physics": 90,
+        "cs": 81,
+        "history": 85,
+        "english": 75,
+        "average": 81.8
+    },
+    {
+        "full_name": "Kapanova Gulnaz",
+        "group": "CS-23-01",
+        "math": 66,
+        "physics": 84,
+        "cs": 91,
+        "history": 89,
+        "english": 90,
+        "average": 84.0
+    },
+    {
+        "full_name": "Smailova Temirlan",
+        "group": "CS-23-02",
+        "math": 69,
+        "physics": 87,
+        "cs": 84,
+        "history": 78,
+        "english": 81,
+        "average": 79.8
+    },
+    {
+        "full_name": "Imanbekov Sanzhar",
+        "group": "CS-23-03",
+        "math": 64,
+        "physics": 65,
+        "cs": 78,
+        "history": 80,
+        "english": 81,
+        "average": 73.6
+    },
+    {
+        "full_name": "Abdullayev Arman",
+        "group": "AI-24-01",
+        "math": 90,
+        "physics": 82,
+        "cs": 85,
+        "history": 79,
+        "english": 88,
+        "average": 84.8
+    },
+    {
+        "full_name": "Yeszhanov Damir",
+        "group": "AI-24-02",
+        "math": 91,
+        "physics": 86,
+        "cs": 78,
+        "history": 71,
+        "english": 70,
+        "average": 79.2
+    },
+    {
+        "full_name": "Kaldybek Ayaulym",
+        "group": "SE-22-01",
+        "math": 86,
+        "physics": 80,
+        "cs": 83,
+        "history": 71,
+        "english": 61,
+        "average": 76.2
+    },
+    {
+        "full_name": "Kapanova Adil",
+        "group": "SE-22-02",
+        "math": 71,
+        "physics": 73,
+        "cs": 80,
+        "history": 65,
+        "english": 70,
+        "average": 71.8
+    },
+    {
+        "full_name": "Kenzhebay Madi",
+        "group": "CS-23-01",
+        "math": 85,
+        "physics": 60,
+        "cs": 76,
+        "history": 80,
+        "english": 76,
+        "average": 75.4
+    },
+    {
+        "full_name": "Kaliyev Aidos",
+        "group": "CS-23-02",
+        "math": 77,
+        "physics": 91,
+        "cs": 81,
+        "history": 84,
+        "english": 89,
+        "average": 84.4
+    },
+    {
+        "full_name": "Zhussupov Temirlan",
+        "group": "CS-23-03",
+        "math": 75,
+        "physics": 53,
+        "cs": 74,
+        "history": 86,
+        "english": 89,
+        "average": 75.4
+    },
+    {
+        "full_name": "Smailova Karina",
+        "group": "AI-24-01",
+        "math": 80,
+        "physics": 85,
+        "cs": 87,
+        "history": 91,
+        "english": 79,
+        "average": 84.4
+    },
+    {
+        "full_name": "Smailova Aruzhan",
+        "group": "AI-24-02",
+        "math": 79,
+        "physics": 76,
+        "cs": 84,
+        "history": 87,
+        "english": 85,
+        "average": 82.2
+    },
+    {
+        "full_name": "Yeszhanov Karina",
+        "group": "SE-22-01",
+        "math": 92,
+        "physics": 96,
+        "cs": 80,
+        "history": 91,
+        "english": 82,
+        "average": 88.2
+    },
+    {
+        "full_name": "Nugumanova Anel",
+        "group": "SE-22-02",
+        "math": 62,
+        "physics": 77,
+        "cs": 90,
+        "history": 67,
+        "english": 71,
+        "average": 73.4
+    },
+    {
+        "full_name": "Sarsembayev Arman",
+        "group": "CS-23-01",
+        "math": 78,
+        "physics": 74,
+        "cs": 90,
+        "history": 72,
+        "english": 93,
+        "average": 81.4
+    },
+    {
+        "full_name": "Kaldybek Zarina",
+        "group": "CS-23-02",
+        "math": 88,
+        "physics": 78,
+        "cs": 86,
+        "history": 59,
+        "english": 93,
+        "average": 80.8
+    },
+    {
+        "full_name": "Ilyasov Miras",
+        "group": "CS-23-03",
+        "math": 60,
+        "physics": 94,
+        "cs": 58,
+        "history": 57,
+        "english": 70,
+        "average": 67.8
+    },
+    {
+        "full_name": "Nugumanova Karina",
+        "group": "AI-24-01",
+        "math": 82,
+        "physics": 70,
+        "cs": 78,
+        "history": 64,
+        "english": 93,
+        "average": 77.4
+    },
+    {
+        "full_name": "Zhaksilik Yerkebulan",
+        "group": "AI-24-02",
+        "math": 71,
+        "physics": 75,
+        "cs": 82,
+        "history": 94,
+        "english": 85,
+        "average": 81.4
+    },
+    {
+        "full_name": "Kaliyev Temirlan",
+        "group": "SE-22-01",
+        "math": 66,
+        "physics": 73,
+        "cs": 81,
+        "history": 92,
+        "english": 81,
+        "average": 78.6
+    },
+    {
+        "full_name": "Akhmetova Sanzhar",
+        "group": "SE-22-02",
+        "math": 76,
+        "physics": 85,
+        "cs": 61,
+        "history": 84,
+        "english": 83,
+        "average": 77.8
+    },
+    {
+        "full_name": "Zhaksilik Samat",
+        "group": "CS-23-01",
+        "math": 86,
+        "physics": 89,
+        "cs": 82,
+        "history": 64,
+        "english": 96,
+        "average": 83.4
+    },
+    {
+        "full_name": "Mansurova Yerlan",
+        "group": "CS-23-02",
+        "math": 74,
+        "physics": 77,
+        "cs": 75,
+        "history": 79,
+        "english": 74,
+        "average": 75.8
+    },
+    {
+        "full_name": "Smailova Altynai",
+        "group": "CS-23-03",
+        "math": 88,
+        "physics": 63,
+        "cs": 94,
+        "history": 83,
+        "english": 88,
+        "average": 83.2
+    },
+    {
+        "full_name": "Kenzhebay Madi",
+        "group": "AI-24-01",
+        "math": 77,
+        "physics": 85,
+        "cs": 94,
+        "history": 71,
+        "english": 88,
+        "average": 83.0
+    },
+    {
+        "full_name": "Abdullayev Damir",
+        "group": "AI-24-02",
+        "math": 79,
+        "physics": 77,
+        "cs": 85,
+        "history": 71,
+        "english": 89,
+        "average": 80.2
+    },
+    {
+        "full_name": "Batyrbek Karina",
+        "group": "SE-22-01",
+        "math": 62,
+        "physics": 90,
+        "cs": 70,
+        "history": 78,
+        "english": 82,
+        "average": 76.4
+    },
+    {
+        "full_name": "Nurmaganbet Gulnaz",
+        "group": "SE-22-02",
+        "math": 57,
+        "physics": 89,
+        "cs": 67,
+        "history": 69,
+        "english": 87,
+        "average": 73.8
+    },
+    {
+        "full_name": "Kaldybek Arman",
+        "group": "CS-23-01",
+        "math": 90,
+        "physics": 85,
+        "cs": 71,
+        "history": 54,
+        "english": 93,
+        "average": 78.6
+    },
+    {
+        "full_name": "Kapanova Rustem",
+        "group": "CS-23-02",
+        "math": 85,
+        "physics": 79,
+        "cs": 86,
+        "history": 84,
+        "english": 83,
+        "average": 83.4
+    },
+    {
+        "full_name": "Yeszhanov Nuray",
+        "group": "CS-23-03",
+        "math": 87,
+        "physics": 62,
+        "cs": 69,
+        "history": 84,
+        "english": 73,
+        "average": 75.0
+    },
+    {
+        "full_name": "Zhaksylykov Ardak",
+        "group": "AI-24-01",
+        "math": 78,
+        "physics": 80,
+        "cs": 77,
+        "history": 86,
+        "english": 74,
+        "average": 79.0
+    },
+    {
+        "full_name": "Yeszhanov Madi",
+        "group": "AI-24-02",
+        "math": 71,
+        "physics": 70,
+        "cs": 64,
+        "history": 68,
+        "english": 64,
+        "average": 67.4
+    },
+    {
+        "full_name": "Abdullayev Damir",
+        "group": "SE-22-01",
+        "math": 84,
+        "physics": 68,
+        "cs": 85,
+        "history": 71,
+        "english": 82,
+        "average": 78.0
+    },
+    {
+        "full_name": "Tleubayeva Temirlan",
+        "group": "SE-22-02",
+        "math": 82,
+        "physics": 96,
+        "cs": 88,
+        "history": 72,
+        "english": 75,
+        "average": 82.6
+    },
+    {
+        "full_name": "Nugumanova Adil",
+        "group": "CS-23-01",
+        "math": 85,
+        "physics": 64,
+        "cs": 58,
+        "history": 59,
+        "english": 72,
+        "average": 67.6
+    },
+    {
+        "full_name": "Ilyasov Aigerim",
+        "group": "CS-23-02",
+        "math": 90,
+        "physics": 79,
+        "cs": 90,
+        "history": 81,
+        "english": 78,
+        "average": 83.6
+    },
+    {
+        "full_name": "Nurmaganbet Yerkebulan",
+        "group": "CS-23-03",
+        "math": 67,
+        "physics": 59,
+        "cs": 93,
+        "history": 78,
+        "english": 88,
+        "average": 77.0
+    },
+    {
+        "full_name": "Omarov Gulnaz",
+        "group": "AI-24-01",
+        "math": 61,
+        "physics": 83,
+        "cs": 59,
+        "history": 66,
+        "english": 81,
+        "average": 70.0
+    },
+    {
+        "full_name": "Rakhimzhanov Adil",
+        "group": "AI-24-02",
+        "math": 97,
+        "physics": 64,
+        "cs": 86,
+        "history": 82,
+        "english": 87,
+        "average": 83.2
+    },
+    {
+        "full_name": "Abdullayev Miras",
+        "group": "SE-22-01",
+        "math": 80,
+        "physics": 78,
+        "cs": 77,
+        "history": 89,
+        "english": 97,
+        "average": 84.2
+    },
+    {
+        "full_name": "Zhussupov Adil",
+        "group": "SE-22-02",
+        "math": 82,
+        "physics": 82,
+        "cs": 86,
+        "history": 93,
+        "english": 69,
+        "average": 82.4
+    },
+    {
+        "full_name": "Kaldybek Aidos",
+        "group": "CS-23-01",
+        "math": 83,
+        "physics": 66,
+        "cs": 67,
+        "history": 61,
+        "english": 52,
+        "average": 65.8
+    },
+    {
+        "full_name": "Zhaksilik Yerkebulan",
+        "group": "CS-23-02",
+        "math": 82,
+        "physics": 72,
+        "cs": 70,
+        "history": 85,
+        "english": 85,
+        "average": 78.8
+    },
+    {
+        "full_name": "Rakhimzhanov Yerkebulan",
+        "group": "CS-23-03",
+        "math": 84,
+        "physics": 92,
+        "cs": 87,
+        "history": 83,
+        "english": 84,
+        "average": 86.0
+    },
+    {
+        "full_name": "Sarsembayev Sanzhar",
+        "group": "AI-24-01",
+        "math": 77,
+        "physics": 80,
+        "cs": 83,
+        "history": 91,
+        "english": 88,
+        "average": 83.8
+    },
+    {
+        "full_name": "Mansurova Rustem",
+        "group": "AI-24-02",
+        "math": 67,
+        "physics": 73,
+        "cs": 86,
+        "history": 81,
+        "english": 72,
+        "average": 75.8
+    },
+    {
+        "full_name": "Yeszhanov Samat",
+        "group": "SE-22-01",
+        "math": 84,
+        "physics": 84,
+        "cs": 93,
+        "history": 79,
+        "english": 79,
+        "average": 83.8
+    },
+    {
+        "full_name": "Mukan Rustem",
+        "group": "SE-22-02",
+        "math": 58,
+        "physics": 77,
+        "cs": 73,
+        "history": 70,
+        "english": 62,
+        "average": 68.0
+    },
+    {
+        "full_name": "Kaliyev Anel",
+        "group": "CS-23-01",
+        "math": 89,
+        "physics": 82,
+        "cs": 56,
+        "history": 86,
+        "english": 88,
+        "average": 80.2
+    },
+    {
+        "full_name": "Mansurova Ardak",
+        "group": "CS-23-02",
+        "math": 86,
+        "physics": 67,
+        "cs": 80,
+        "history": 77,
+        "english": 72,
+        "average": 76.4
+    },
+    {
+        "full_name": "Smailova Ardak",
+        "group": "CS-23-03",
+        "math": 83,
+        "physics": 79,
+        "cs": 62,
+        "history": 74,
+        "english": 74,
+        "average": 74.4
+    },
+    {
+        "full_name": "Shomanov Anel",
+        "group": "AI-24-01",
+        "math": 89,
+        "physics": 74,
+        "cs": 84,
+        "history": 72,
+        "english": 93,
+        "average": 82.4
+    },
+    {
+        "full_name": "Abdullayev Karina",
+        "group": "AI-24-02",
+        "math": 81,
+        "physics": 78,
+        "cs": 73,
+        "history": 73,
+        "english": 95,
+        "average": 80.0
+    },
+    {
+        "full_name": "Imanbekov Gulnaz",
+        "group": "SE-22-01",
+        "math": 80,
+        "physics": 97,
+        "cs": 83,
+        "history": 80,
+        "english": 76,
+        "average": 83.2
+    },
+    {
+        "full_name": "Tleubayeva Aidos",
+        "group": "SE-22-02",
+        "math": 75,
+        "physics": 86,
+        "cs": 83,
+        "history": 86,
+        "english": 68,
+        "average": 79.6
+    },
+    {
+        "full_name": "Kenzhebay Damir",
+        "group": "CS-23-01",
+        "math": 92,
+        "physics": 77,
+        "cs": 84,
+        "history": 64,
+        "english": 95,
+        "average": 82.4
+    },
+    {
+        "full_name": "Myrzakhmet Aknur",
+        "group": "CS-23-02",
+        "math": 70,
+        "physics": 66,
+        "cs": 81,
+        "history": 81,
+        "english": 62,
+        "average": 72.0
+    },
+    {
+        "full_name": "Batyrbek Karina",
+        "group": "CS-23-03",
+        "math": 64,
+        "physics": 93,
+        "cs": 83,
+        "history": 66,
+        "english": 92,
+        "average": 79.6
+    },
+    {
+        "full_name": "Tleubayeva Adil",
+        "group": "AI-24-01",
+        "math": 85,
+        "physics": 76,
+        "cs": 79,
+        "history": 78,
+        "english": 78,
+        "average": 79.2
+    },
+    {
+        "full_name": "Akhmetova Aigerim",
+        "group": "AI-24-02",
+        "math": 68,
+        "physics": 82,
+        "cs": 86,
+        "history": 65,
+        "english": 61,
+        "average": 72.4
+    },
+    {
+        "full_name": "Myrzakhmet Temirlan",
+        "group": "SE-22-01",
+        "math": 89,
+        "physics": 74,
+        "cs": 87,
+        "history": 71,
+        "english": 52,
+        "average": 74.6
+    },
+    {
+        "full_name": "Turganbek Serik",
+        "group": "SE-22-02",
+        "math": 88,
+        "physics": 81,
+        "cs": 83,
+        "history": 89,
+        "english": 77,
+        "average": 83.6
+    },
+    {
+        "full_name": "Zhaksylykov Nuray",
+        "group": "CS-23-01",
+        "math": 74,
+        "physics": 86,
+        "cs": 75,
+        "history": 92,
+        "english": 90,
+        "average": 83.4
+    },
+    {
+        "full_name": "Kapanova Madi",
+        "group": "CS-23-02",
+        "math": 81,
+        "physics": 70,
+        "cs": 87,
+        "history": 58,
+        "english": 86,
+        "average": 76.4
+    },
+    {
+        "full_name": "Batyrbek Madi",
+        "group": "CS-23-03",
+        "math": 88,
+        "physics": 75,
+        "cs": 84,
+        "history": 88,
+        "english": 96,
+        "average": 86.2
+    },
+    {
+        "full_name": "Mansurova Nuray",
+        "group": "AI-24-01",
+        "math": 64,
+        "physics": 94,
+        "cs": 74,
+        "history": 63,
+        "english": 89,
+        "average": 76.8
+    },
+    {
+        "full_name": "Tleubayeva Samat",
+        "group": "AI-24-02",
+        "math": 91,
+        "physics": 55,
+        "cs": 65,
+        "history": 90,
+        "english": 95,
+        "average": 79.2
+    },
+    {
+        "full_name": "Omarov Rustem",
+        "group": "SE-22-01",
+        "math": 87,
+        "physics": 71,
+        "cs": 83,
+        "history": 76,
+        "english": 61,
+        "average": 75.6
+    },
+    {
+        "full_name": "Imanbekov Arman",
+        "group": "SE-22-02",
+        "math": 84,
+        "physics": 80,
+        "cs": 94,
+        "history": 83,
+        "english": 90,
+        "average": 86.2
+    },
+    {
+        "full_name": "Imanbekov Nuray",
+        "group": "CS-23-01",
+        "math": 80,
+        "physics": 82,
+        "cs": 70,
+        "history": 84,
+        "english": 72,
+        "average": 77.6
+    },
+    {
+        "full_name": "Kydyr Miras",
+        "group": "CS-23-02",
+        "math": 62,
+        "physics": 95,
+        "cs": 86,
+        "history": 85,
+        "english": 63,
+        "average": 78.2
+    },
+    {
+        "full_name": "Zhaksilik Almas",
+        "group": "CS-23-03",
+        "math": 72,
+        "physics": 57,
+        "cs": 73,
+        "history": 59,
+        "english": 75,
+        "average": 67.2
+    },
+    {
+        "full_name": "Kenzhebay Zarina",
+        "group": "AI-24-01",
+        "math": 70,
+        "physics": 76,
+        "cs": 84,
+        "history": 67,
+        "english": 67,
+        "average": 72.8
+    },
+    {
+        "full_name": "Imanbekov Aknur",
+        "group": "AI-24-02",
+        "math": 75,
+        "physics": 84,
+        "cs": 79,
+        "history": 81,
+        "english": 70,
+        "average": 77.8
+    },
+    {
+        "full_name": "Kaldybek Ayaulym",
+        "group": "SE-22-01",
+        "math": 78,
+        "physics": 84,
+        "cs": 91,
+        "history": 78,
+        "english": 72,
+        "average": 80.6
+    },
+    {
+        "full_name": "Beketov Damir",
+        "group": "SE-22-02",
+        "math": 61,
+        "physics": 93,
+        "cs": 96,
+        "history": 72,
+        "english": 94,
+        "average": 83.2
+    },
+    {
+        "full_name": "Kaldybek Madi",
+        "group": "CS-23-01",
+        "math": 78,
+        "physics": 72,
+        "cs": 99,
+        "history": 89,
+        "english": 63,
+        "average": 80.2
+    },
+    {
+        "full_name": "Zhussupov Gulnaz",
+        "group": "CS-23-02",
+        "math": 75,
+        "physics": 72,
+        "cs": 84,
+        "history": 56,
+        "english": 88,
+        "average": 75.0
+    },
+    {
+        "full_name": "Kaldybek Gulnaz",
+        "group": "CS-23-03",
+        "math": 53,
+        "physics": 89,
+        "cs": 87,
+        "history": 95,
+        "english": 91,
+        "average": 83.0
+    }
+]

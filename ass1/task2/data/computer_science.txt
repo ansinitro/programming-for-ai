@@ -1,0 +1,4 @@
+Computer science is the study of computers and computational systems.
+It includes algorithms, data structures, programming, and artificial intelligence.
+Computer science relies heavily on mathematics, especially discrete mathematics.
+Probability theory is important for machine learning algorithms.
