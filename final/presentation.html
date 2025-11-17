@@ -565,34 +565,34 @@ y_pred_proba = xgb_model.predict_proba(X_test)[:, 1]</code></pre>
                         <tbody>
                             <tr>
                                 <td><strong>Accuracy</strong></td>
-                                <td>99.94%</td>
+                                <td>99.70%</td>
                                 <td>Overall correct predictions</td>
                             </tr>
                             <tr>
                                 <td><strong>Precision</strong></td>
-                                <td>87.31%</td>
-                                <td>Of predicted frauds, 87% were actual frauds</td>
+                                <td>35%</td>
+                                <td>Of predicted frauds, 35% were actual frauds</td>
                             </tr>
                             <tr>
                                 <td><strong>Recall</strong></td>
-                                <td>79.05%</td>
-                                <td>Detected 79% of all actual fraud cases</td>
+                                <td>83.78%</td>
+                                <td>Detected 83.78% of all actual fraud cases</td>
                             </tr>
                             <tr>
                                 <td><strong>F1-Score</strong></td>
-                                <td>82.98%</td>
+                                <td>83.78%</td>
                                 <td>Harmonic mean of precision and recall</td>
                             </tr>
                             <tr>
                                 <td><strong>ROC-AUC</strong></td>
-                                <td>97.48%</td>
+                                <td>96.92%</td>
                                 <td>Excellent discrimination between classes</td>
                             </tr>
                         </tbody>
                     </table>
 
                     <h3>📉 ROC Curve Analysis</h3>
-                    <p>The ROC (Receiver Operating Characteristic) curve demonstrates the model's ability to distinguish between fraud and normal transactions. An AUC of 0.9748 indicates excellent performance.</p>
+                    <p>The ROC (Receiver Operating Characteristic) curve demonstrates the model's ability to distinguish between fraud and normal transactions. An AUC of 0.9692 indicates excellent performance.</p>
                     
                     <div class="image-container">
                         <img src="./outputs/ROC Curve.png" alt="ROC Curve">
